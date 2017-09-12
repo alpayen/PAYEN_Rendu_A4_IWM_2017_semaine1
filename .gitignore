@@ -3,3 +3,10 @@ package-lock.json
 package.json
 Gulpfile.js
 scss
+.idea
+.DS_store
+css/ie*
+css/print*
+dist/ie.css
+dist/print.css
+
