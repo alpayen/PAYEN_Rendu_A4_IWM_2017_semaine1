@@ -2,8 +2,8 @@ node_modules
 package-lock.json
 package.json
 Gulpfile.js
-scss
-.idea
+scss/
+.idea/
 .DS_store
 css/ie*
 css/print*
